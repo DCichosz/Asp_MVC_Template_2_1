@@ -9,7 +9,7 @@
 5) Find and rename "Template_2_1.csproj" to "NewProject.csproj"
 6) Run NewProject.sln in Visual Studio
 7) In Startup.cs rename namespace with (Ctrl + R + R)
-Right-click on NewProject (Project) -> properties -> section debug -> and check Enable SSL
+8) Right-click on NewProject (Project) -> properties -> section debug -> and check Enable SSL
 
 ## General 
 - General fixes in generated files.
